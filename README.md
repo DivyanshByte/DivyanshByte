@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Divyansh Agrawal, a 11 year old boy from India 🇮🇳
+### I am Divyansh Agrawal, a 12 year old boy from India 🇮🇳
 
 I Like Programming in NodeJS, Python, JS & HTML
 
