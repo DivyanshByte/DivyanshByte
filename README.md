@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋</h1>
 
-<h1 align="center" > I am Divyansh Agrawal, a 13 year old boy from India 🇮🇳</h1>
+<h1 align="center" > I am Divyansh Agrawal, a 14 year old boy from India 🇮🇳</h1>
 
 ### My Projects
 - [PixelPaint (A Java Project to Draw Pixel Arts)](https://github.com/DivyanshByte/PixelPaint)
