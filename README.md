@@ -9,4 +9,5 @@
 - [FaceToPixelArt (Make Pixel Art of a face)](https://github.com/DivyanshByte/FaceToPixelArt)
 - [Sound_Player](https://github.com/DivyanshByte/Sound_Player)
 - [Contact Book (A small python project to save your contacts)](https://github.com/DivyanshByte/Contact_Book)
+- [NotePad](https://github.com/DivyanshByte/NotePad)
 - [Clock](https://github.com/DivyanshByte/Clock)
