@@ -3,8 +3,10 @@
 <h1 align="center" > I am Divyansh Agrawal, a 14 year old boy from India 🇮🇳</h1>
 
 ### My Projects
-- [PixelPaint (A Java Project to Draw Pixel Arts)](https://github.com/DivyanshByte/PixelPaint)
-- [Clock](https://github.com/DivyanshByte/Clock)
+- [PixelPaint (A Java project to draw Pixel Arts)](https://github.com/DivyanshByte/PixelPaint)
 - [actual-time](https://github.com/DivyanshByte/actual-time)
-- [Contact Book (A Small Python Project to Save Your Contacts)](https://github.com/DivyanshByte/Contact_Book)
-- [identify-youtube-shorts (A JS Library to Identify Wether a Youtube Video is Shorts or not)](https://github.com/DivyanshByte#:~:text=identify%2Dyoutube%2Dshorts)
+- [identify-youtube-shorts (A JS library to identify wether a Youtube video is shorts or not)](https://github.com/DivyanshByte/identify-youtube-shorts)
+- [FaceToPixelArt (Make Pixel Art of a face)](https://github.com/DivyanshByte/FaceToPixelArt)
+- [Sound_Player](https://github.com/DivyanshByte/Sound_Player)
+- [Contact Book (A small python project to save your contacts)](https://github.com/DivyanshByte/Contact_Book)
+- [Clock](https://github.com/DivyanshByte/Clock)
